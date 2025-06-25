@@ -1,21 +1,34 @@
-## 📄 License
+STB-IT License  
+Copyright (c) 2025 Satybaev Mukhamed
 
-This work — the **Signal Theory of Being (STB)** and all associated files, documents, and algorithms — is the original creation of **Muhamed Satybaev**.
+This license permits the use, reproduction, and distribution of materials and code from the **STB-IT** project — including all principles of the Signal Theory of Being (STB) — under the following conditions:
 
-It is provided for **research and educational purposes only** under the following conditions:
+1. **Mandatory Author Attribution**:  
+   Any use, citation, research, or derivative work based on this paradigm or its components **must** include clear attribution to the author:
 
-1. **Attribution Required**  
-   Any use of this work — including citation, reproduction, or derivative development — must include clear attribution to the original author:
-   > Satybaev, M. (2025). Signal Theory of Being (STB). https://github.com/Mukhameds/STB-IT
+   **Satybaev Mukhamed Kamilovich**  
+   https://github.com/Mukhameds  
+   https://x.com/redkms2025  
+   https://mukhameds.github.io/STB-Physics/
 
-2. **Non-Commercial Use Only**  
-   Commercial use, integration into products, deployment in proprietary systems, or inclusion in commercial research pipelines is **prohibited without prior written permission**.
+2. **Academic and Scientific Use**:  
+   Free use is permitted for academic, educational, and research purposes, provided the original author and source are explicitly credited.
 
-3. **No Patent Waiver**  
-   This repository **does not grant patent rights**. All mechanisms, formulas, and computational models described herein may be subject to patent protection.
+3. **Commercial Use**:  
+   Commercial use of the code or theoretical basis of STB (including in products, services, platforms, or embedded systems) **is permitted only under license**.  
+   To obtain a commercial license, direct contact with the author is required.
 
-4. **No Warranty**  
-   This project is provided "as is", without warranty of any kind.
+4. **Modification and Redistribution**:  
+   You may modify and redistribute this material, provided that author attribution and original source reference are preserved in all derived versions.
 
-If you are interested in commercial licensing, formal citation agreements, or scientific collaboration, please contact the author directly via GitHub or at:  
-👉 https://mukhameds.github.io/STB-Physics/
+5. **Limitation of Liability**:  
+   The author assumes no responsibility for any consequences arising from the use of this material.
+
+---
+
+**Author:** Satybaev Mukhamed Kamilovich  
+https://github.com/Mukhameds  
+https://x.com/redkms2025  
+https://mukhameds.github.io/STB-Physics/
+
+© 2025
